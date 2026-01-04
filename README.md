@@ -11,6 +11,11 @@ Building a complete CI/CD pipeline for a multi-tier e-commerce platform
 - Orchestration with Kubernetes  
 - Automated deployments with Jenkins
 
+### 📚 Currently Learning
+Expanding into full-stack development to better understand the applications I deploy:
+- **JavaScript** - Building frontend skills to complement my DevOps expertise
+- **Web Development** - Understanding the complete software delivery lifecycle from code to cloud
+
 ### 🛠️ Tech Stack
 **DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
 **Cloud:** AWS (EC2, VPC), Azure (ACI, ACR)
