@@ -26,6 +26,7 @@ Expanding into full-stack development to better understand the applications I de
 ### 📫 Let's Connect
 - LinkedIn: [vvishalsharma](https://linkedin.com/in/vvishalsharma)
 - Email: vvishalsharma0609@gmail.com
+- Twitter: [tf_vishal_](https://x.com/tf_vishal_)
 - Location: Burhanpur, MP, India | Open to Remote/Relocate
 
 ### 📊 GitHub Stats
