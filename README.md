@@ -4,23 +4,33 @@ I build production-grade infrastructure and automate deployments. Currently work
 
 ---
 
-### 🔭 Current Projects
+## 🔭 Current Projects
 
-**Gemini Clone Deployment** — Full-scale production deployment with end-to-end automation
-- Full scalability with Kubernetes orchestration
-- Auto deployment via CI/CD pipeline
-- Observability stack for monitoring and tracing
+### Resume Tracker Platform
 
-**[OrgFlow](https://github.com/tf-vishal/OrgFlow)** — Organization management system actively in development
+Production-grade microservices deployment platform built with modern DevOps and GitOps practices.
+
+#### Features:
+- 6–7 microservices architecture
+- Kubernetes orchestration for scalability
+- CI/CD automation with Jenkins
+- GitOps deployment using ArgoCD
+- Distroless Docker images for secure lightweight containers
+- Prometheus & Grafana monitoring stack
+- Infrastructure as Code with Terraform
+- Ingress-based traffic routing
+- Production-focused deployment workflows
 
 ---
 
 ### 📚 Currently Learning
 
+Expanding beyond infrastructure to better understand the complete application lifecycle.
+
 Expanding into full-stack development to better understand the applications I deploy:
 - **Web Development** - Understanding the complete software delivery lifecycle from code to cloud
-- **Node.js** - Server-side JavaScript for backend development
 - **Golang** - Systems-level programming for performance-critical tooling
+- **GitOps & Platform Engineering** - Modern infrastructure automation workflows
 
 ---
 
@@ -49,7 +59,6 @@ Expanding into full-stack development to better understand the applications I de
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -63,5 +72,4 @@ Expanding into full-stack development to better understand the applications I de
 
 ---
 
-
-💡 Open to DevOps opportunities | Always learning, always building
+💡 Passionate about cloud-native infrastructure, automation, and scalable systems.
