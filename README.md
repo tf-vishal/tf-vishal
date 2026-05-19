@@ -26,8 +26,6 @@ Production-grade microservices deployment platform built with modern DevOps and 
 ### 📚 Currently Learning
 
 Expanding beyond infrastructure to better understand the complete application lifecycle.
-
-Expanding into full-stack development to better understand the applications I deploy:
 - **Web Development** - Understanding the complete software delivery lifecycle from code to cloud
 - **Golang** - Systems-level programming for performance-critical tooling
 - **GitOps & Platform Engineering** - Modern infrastructure automation workflows
